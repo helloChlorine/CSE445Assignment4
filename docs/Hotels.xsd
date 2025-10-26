@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<xsd:element name="Hotels">
 		<xsd:complexType>
-			<xsd:all>
+			<xsd:sequence>
 				<xsd:element name="Hotel">
 					<xsd:complexType>
 						<xsd:sequence>
@@ -24,7 +23,7 @@
 						<xsd:attribute name ="Rating" type="xsd:float" use="optional"/>
 					</xsd:complexType>
 				</xsd:element>
-			</xsd:all>
+			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
 </xsd:schema>
