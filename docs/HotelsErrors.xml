@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotel xmlns="https://hellochlorine.github.io/CSE445Assignment4/Hotels.xsd"
-	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	   xsi:schemaLocation="https://hellochlorine.github.io/CSE445Assignment4/Hotels.xsd">
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="https://hellochlorine.github.io/CSE445Assignment4/Hotels.xsd">
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
@@ -14,7 +14,7 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="3.1">
+	<Hotel>
 		<Name>La Quinta Inn</Name>
 		<Address NearestAirport="Sky Harbor">
 			<Number>911</Number>
@@ -26,8 +26,8 @@
 	</Hotel>
 	<Hotel Rating="4.1">
 		<Name>Hampton Inn Phoenix-Airport North</Name>
-		<Name>Hampton Inn Phoenix Sky Harbor Airport North</Name>
 		<Phone>833-372-3721</Phone>
+		<Phone>602-267-0606</Phone>
 		<Address NearestAirport="Sky Harbor">
 			<Number>601</Number>
 			<Street>N 44th St</Street>
@@ -37,7 +37,9 @@
 	</Hotel>
 	<Hotel Rating="4.4">
 		<Name>Hampton Inn and Suites Tempe</Name>
+		<Name>Hampton Inn & Suites at Tempe</Name>
 		<Phone>844-535-6939</Phone>
+		<Phone>800-426-7866</Phone>
 		<Address NearestAirport="Sky Harbor">
 			<Number>1550</Number>
 			<Street>S 52nd St</Street>
@@ -68,7 +70,7 @@
 			<Zip>85226</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.1">
+	<Hotel>
 		<Name>Hilton Garden Inn Phoenix Airport</Name>
 		<Phone>480-520-3695</Phone>
 		<Address NearestAirport="Sky Harbor">
@@ -90,7 +92,7 @@
 			<Zip>85008</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.2">
+	<Hotel>
 		<Name>Holiday Inn Express and Suites Phoenix Airport by IHG</Name>
 		<Phone>602-453-9900</Phone>
 		<Address NearestAirport="Sky Harbor">
