@@ -14,7 +14,7 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="3.1">
+	<Hotel">
 		<Name>La Quinta Inn</Name>
 		<Phone>480-967-4465</Phone>
 		<Address NearestAirport="Sky Harbor">
@@ -69,7 +69,7 @@
 			<Zip>85226</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.1">
+	<Hotel>
 		<Name>Hilton Garden Inn Phoenix Airport</Name>
 		<Phone>480-520-3695</Phone>
 		<Address NearestAirport="Sky Harbor">
@@ -91,7 +91,7 @@
 			<Zip>85008</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.2">
+	<Hotel>
 		<Name>Holiday Inn Express and Suites Phoenix Airport by IHG</Name>
 		<Phone>602-453-9900</Phone>
 		<Address NearestAirport="Sky Harbor">
