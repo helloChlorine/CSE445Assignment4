@@ -28,6 +28,7 @@
 	<Hotel Rating="4.1">
 		<Name>Hampton Inn Phoenix-Airport North</Name>
 		<Phone>833-372-3721</Phone>
+		<Phone>602-267-0606</Phone>
 		<Address NearestAirport="Sky Harbor">
 			<Number>601</Number>
 			<Street>N 44th St</Street>
@@ -39,6 +40,7 @@
 	<Hotel Rating="4.4">
 		<Name>Hampton Inn and Suites Tempe</Name>
 		<Phone>844-535-6939</Phone>
+		<Phone>800-426-7866</Phone>
 		<Address NearestAirport="Sky Harbor">
 			<Number>1550</Number>
 			<Street>S 52nd St</Street>
